@@ -382,24 +382,6 @@ This project is part of customer analytics research. All data is synthesized for
 
 ---
 
-## 🤝 Contributing
 
-To contribute improvements:
-1. Analyze additional metrics
-2. Enhance visualizations
-3. Optimize SQL queries
-4. Add new business questions
+© 2026 Shlok Singh • Customer Shopping Behavior • Data Analyst
 
----
-
-## 📧 Contact & Support
-
-For questions about this analysis, please refer to the individual components:
-- **SQL Queries:** See `customer_shopping_behavior.sql`
-- **Python Code:** See `customer_shopping_behaviour.ipynb`
-- **Dashboard:** See `CUSTOMER_SHOPPING BEHAVIOR.pbix`
-
----
-
-**Last Updated:** May 15, 2026  
-**Project Status:** Complete ✅
